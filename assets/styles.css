@@ -1,0 +1,28 @@
+header,
+main,
+footer {
+  width: 800px;
+  margin: 50px auto;
+}
+
+header,
+footer {
+  text-align: center;
+}
+header img {
+  width: 150px;
+}
+
+.btn {
+  border-radius: 2px;
+  padding: 0 50px;
+}
+
+.btn-info {
+  background-color: rgb(164, 240, 240);
+  color: rgb(7, 122, 189);
+}
+
+.project{
+    margin: 50px 0 ;
+}
